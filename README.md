@@ -1,5 +1,5 @@
-# shopping_online
+# Project name: shopping_online
 
-# front-end : react js
-# back-end : express js
-# admin : vite
+## front-end : react js
+## back-end : express js
+## admin : vite
